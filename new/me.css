@@ -1,0 +1,446 @@
+ .banner {
+
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%);
+     border-radius: 16px"
+
+
+
+
+
+}
+
+
+
+
+
+ .new{
+
+    color: white;
+   font-size: 32px;
+  text-align: center;
+     font-weight: 400;
+   word-wrap: break-word;
+ }
+  .year{
+
+    color: white;
+    font-size: 72px;
+    text-align: center;
+    font-weight: 900;
+    line-height: 95px;
+    word-wrap: break-word;
+
+  }
+
+  .middle {
+    color: #FF0000;
+    font-size: 88px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+    text-align: center;
+
+
+  }
+
+.middle-content {
+    width: 100%;
+     height: 100%; 
+     text-align: center;
+      /* color: #070211; */
+       font-size: 48px;
+        font-family: Inter;
+         font-weight: 700;
+    word-wrap: break-word"
+
+}
+
+.off{   
+
+    color: #FF0000;
+font-size: 88px;
+font-family: Inter;
+font-weight: 700;
+word-wrap: break-word;
+}
+
+.deals {
+
+    color: #FF0000;
+font-size: 24px;
+font-family: Inter;
+font-weight: 500;
+/* word-wrap: break-word; */
+}
+
+.catagories{
+
+    color: #070211;
+font-size: 48px;
+font-family: Inter;
+font-weight: 700;
+word-wrap: break-word
+
+}
+
+.new-year-photo{
+
+ width: 100%; 
+ height: 100%" 
+}
+
+.mid-night{
+
+    width: 100%; 
+    height: 100%; 
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%); 
+    border-radius: 16px";
+
+}
+
+/* .middle-content{ */
+
+    width: 100%;
+     /* color: white;  */
+     font-size: 64px;
+      /* font-family: Merriweather;  */
+      /* font-weight: 900; */
+       line-height: 88px; 
+    /* letter-spacing: 7.04px;  */
+    word-wrap: break-word;
+}
+
+.party{
+    color: white;
+    font-size: 64px;
+    /* font-family: Merriweather; */
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    word-wrap: break-word
+
+
+}
+
+.happy{
+
+    width: 100%;
+     color: rgba(255, 255, 255, 0.80);
+      font-size: 18px;
+       font-family: Inter;
+        font-weight: 400;
+         line-height: 30px;
+          word-wrap: break-word;
+    
+}
+
+
+
+
+.btn{
+
+    text-align: center; 
+    /* color: white;  */
+
+    font-size: 20px;
+     font-family: Inter;
+      font-weight: 700; 
+      text-transform: uppercase; 
+    word-wrap: break-word;
+
+}
+
+/* .groups{ */
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+    mix-blend-mode;
+    width: 76.80px;
+    height: 90.43px; 
+    left: 0px;
+    top: 0px; 
+    position: absolute;
+    background: linear-gradient(231deg, #C3852F 0%, #DBAD50 7%, #EECC69 13%, #F9DF78 18%, #FDE67E 22%, #FAE27B 31%, #F2D772 39%, #E4C362 48%, #D1A84D 56%, #C1933C 61%, #BE8F39 62%, #A26B1F 71%, #915410 79%, #8B4C0A 83%, #9A5F09 90%, #AA7307 100%)  
+    /* width: 44.66px;  */
+    /* height: 68.70px;  */
+    left: 41.85px; 
+    top: 62.72px; 
+    position: absolute;
+    background: linear-gradient(231deg, #C3852F 0%, #DBAD50 7%, #EECC69 13%, #F9DF78 18%, #FDE67E 22%, #FAE27B 31%, #F2D772 39%, #E4C362 48%, #D1A84D 56%, #C1933C 61%, #BE8F39 62%, #A26B1F 71%, #915410 79%, #8B4C0A 83%, #9A5F09 90%, #AA7307 100%)"> </>width: 7.05px; height: 29.76px; left: 52.15px; top: 125.92px; position: absolute; background: linear-gradient(231deg, #C3852F 0%, #DBAD50 7%, #EECC69 13%, #F9DF78 18%, #FDE67E 22%, #FAE27B 31%, #F2D772 39%, #E4C362 48%, #D1A84D 56%, #C1933C 61%, #BE8F39 62%, #A26B1F 71%, #915410 79%, #8B4C0A 83%, #9A5F09 90%, #AA7307 100%)"
+
+}
+
+.div .grouping{
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+    mix-blend-mode;
+    width: 76.80px;
+    height: 90.43px; 
+    left: 0px;
+    top: 0px; 
+    position: absolute;
+    background: linear-gradient(231deg, #C3852F 0%, #DBAD50 7%, #EECC69 13%, #F9DF78 18%, #FDE67E 22%, #FAE27B 31%, #F2D772 39%, #E4C362 48%, #D1A84D 56%, #C1933C 61%, #BE8F39 62%, #A26B1F 71%, #915410 79%, #8B4C0A 83%, #9A5F09 90%, #AA7307 100%)  
+    /* width: 44.66px;  */
+    /* height: 68.70px;  */
+    left: 41.85px; 
+    top: 62.72px; 
+    position: absolute;
+    background: linear-gradient(231deg, #C3852F 0%, #DBAD50 7%, #EECC69 13%, #F9DF78 18%, #FDE67E 22%, #FAE27B 31%, #F2D772 39%, #E4C362 48%, #D1A84D 56%, #C1933C 61%, #BE8F39 62%, #A26B1F 71%, #915410 79%, #8B4C0A 83%, #9A5F09 90%, #AA7307 100%)"> </>width: 7.05px; height: 29.76px; left: 52.15px; top: 125.92px; position: absolute; background: linear-gradient(231deg, #C3852F 0%, #DBAD50 7%, #EECC69 13%, #F9DF78 18%, #FDE67E 22%, #FAE27B 31%, #F2D772 39%, #E4C362 48%, #D1A84D 56%, #C1933C 61%, #BE8F39 62%, #A26B1F 71%, #915410 79%, #8B4C0A 83%, #9A5F09 90%, #AA7307 100%)"
+
+}
+
+.location{
+
+    width: 100%; 
+    height: 100%;
+     /* background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0) 100%);  */
+     /* border-radius: 16px" */
+
+}
+
+
+.loc-contant{
+
+    width: 100%; 
+    height: 100%;
+     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0) 100%); 
+     border-radius: 16px;
+
+
+}
+
+.red{
+
+    color: #FF0000;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 56px;
+    /* word-wrap: break-word; */
+    text-align: center;
+
+}
+
+.black{
+    color: #070211;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 56px;
+    /* word-wrap: break-word */
+   text-align: center;
+
+
+}
+.button{
+
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    text-transform: uppercase;
+    word-wrap: break-word
+
+
+}
+    
+.btn-color{
+
+    
+    height: 100%;
+     padding-left: 32px; 
+     padding-right: 32px;
+      padding-top: 16px;
+      padding-bottom: 10px;
+       background: #FF0000;
+        border-radius: 8px;
+         justify-content: center;
+          align-items: center;
+         gap: 10px;
+            /* display: inline-flex */
+         text-align: center; 
+          color: white;
+          font-size: 20px; 
+     font-family: Inter;
+      font-weight: 700;
+       /* text-transform: uppercase; */
+        word-wrap: break-word;
+
+
+
+}
+
+.main-part {
+
+    color: #FF0000;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;  
+
+
+}
+.our{
+
+    color: #070211;
+    font-size: 48px;
+    font-family: Merriweather;
+    font-weight: 700;
+    text-transform: capitalize;
+    word-wrap: break-word
+
+
+
+}
+
+.hello{
+
+    color: rgba(44, 3, 50, 0.769);
+font-size: 20px;
+font-family: Inter;
+font-weight: 400;
+line-height: 32px;
+word-wrap: break-word 
+
+
+}
+/* .subscriber{ */
+
+    width: 60%;
+    height: 70%; 
+    background: rgba(32, 1, 1, 0.185); 
+   border-radius: 16px;
+   
+
+}
+
+.sub-container{
+
+width: 100%;
+ height: 100%;
+  background: rgba(255, 0, 0, 0.05); 
+    border-radius: 16px;
+
+
+}
+
+.news{
+
+    text-align: center; 
+    color: #070211; 
+    font-size: 38px; font-family: Merriweather;
+     font-weight: 900; 
+     text-transform: capitalize; 
+    word-wrap: break-word;
+
+
+}
+
+.update{
+
+    width: 100%;
+     text-align: center; 
+     color: rgba(7, 2, 17, 0.60); 
+     font-size: 20px;
+      font-family: Inter;
+       font-weight: 400;
+        line-height: 32px;
+         word-wrap: break-word;
+}
+
+.email{
+
+    text-align: center;
+     color: rgba(7, 2, 17, 0.30); 
+     font-size: 18px;
+      font-family: Inter;
+       font-weight: 400; 
+    word-wrap: break-word;
+
+text-align: center;
+
+}
+
+ 
+ 
+ 
+.btn-sub{
+
+    width: 15%; height: 20%;
+     background: #FF0000;
+      border-top-left-radius: 50px; 
+    border-top-right-radius: 50px;
+    /* "width: 100%; */
+     /* height: 100%; */
+      /* background: white; */
+       border-radius: 50px
+
+}
+
+.footer{
+
+    "width: 100%;
+     height: 100%;
+     background: #070211;
+}
+
+.path{
+    color: white;
+    font-size: 18px; 
+    font-family: Inter;
+     font-weight: 500;
+      line-height: 40px; 
+    word-wrap: break-word;
+
+}
+
+
+.con{
+
+    
+    color: white;
+    font-size: 19px;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 40px;
+    word-wrap: break-word
+    
+
+}
+
+.web{
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 40px;
+    word-wrap: break-word
+
+}
+
+.all{
+
+    color: rgb(0, 0, 0);
+font-size:18px;
+font-family: Inter;
+font-weight: 500;
+word-wrap: break-word
+}
+
+
+.un{  
+    color:rgb(45, 43, 43);
+     font-size: 22px;
+      font-family: Inter; 
+      font-weight: 500;
+     word-wrap: break-word;
+     text-align: right  ;
+
+}
